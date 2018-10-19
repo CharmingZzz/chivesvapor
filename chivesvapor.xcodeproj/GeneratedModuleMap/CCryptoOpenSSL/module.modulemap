@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/xujie/Desktop/桌面/project/chivesvapor/.build/checkouts/crypto.git-7980259129511365902/Sources/CCryptoOpenSSL/include"
+    export *
+}
